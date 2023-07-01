@@ -1,2 +1,3 @@
-# Flight-delay-prediction
-My Bachelor's thesis in Computing Science about the flight delay prediction problem.
+# Exploring Feature Importances for Predicting Flight Delays Using Machine Learning Algorithms and Transfer Learning
+
+This repository presents the code used for the experiments in the Bachelor's Thesis in Computing Science: "Exploring Feature Importances for Predicting Flight Delays Using Machine Learning Algorithms and Transfer Learning". The `main.ipynb` file contains the complete notebook, providing a step-by-step guide through all the steps that have been executed in this research. Additionally, the `brazil_pairplot.png`and `usa_pairplot.png` provide a larger picture of the pairplots created in the notebook to ensure readability. 
